@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /archive/
-title: 文章归档
+title: 归档文章
 ---
 
 
