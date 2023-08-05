@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何使用 Jekyll 和 GitHub 页面创建简单、免费的博客
+categories: [Jekyll]
 ---
 https://chrisjhart.com/Creating-a-Simple-Free-Blog/
 
