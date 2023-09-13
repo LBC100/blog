@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在线生成文字头像
+title: 什么是JSONP? 实现JSONP
 categories: [js]
 ---
 
